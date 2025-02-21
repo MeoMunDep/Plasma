@@ -33,19 +33,8 @@ Download Python and pip here: [Download Link](https://t.me/KeoAirDropFreeNe/257/
 
 ## Installation Steps
 
-1. **Download and Extract the Bot Files:**
 
-   - Extract the bot package into a folder on your computer.
-     -> Double click on `setup.bat` for windows or `setup.sh` for linux/mac if you want to run automatically, remember to fill all the necessary data.
-
-2. **Install Dependencies:**
-   Open your terminal or command prompt, navigate to the folder where the bot files are located, and run:
-
-   ```bash
-   pip install aiohttp requests cloudscraper pycryptodome fake-useragent aiohttp-proxy colorama
-   ```
-
-3. **Prepare Configuration Files:**
+1. **Prepare Configuration Files:**
    - Ensure all configuration files are set up correctly before running the bot (see [Configuration Files](#configuration-files) section).
 
 ---
